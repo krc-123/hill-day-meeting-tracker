@@ -1,0 +1,3 @@
+Office,State,Party,Email Address,Constituent(s),# Emails Sent,Status
+Sen. Senator A (D),ST,D,scheduling@senatora.senate.gov,"Jordan Example, Alex Sample, Casey Demo",3,Delivered
+Sen. Senator B (R),ST,R,scheduling@senatorb.senate.gov,"Jordan Example, Alex Sample, Casey Demo",3,Bounced
